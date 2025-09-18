@@ -4,8 +4,8 @@
   <title>lists</title>
 </head>
 <body>
-  <h1>forms</h1>
-  <p>This is the home page.</p>
+  <h1>cv</h1>
+  <p>This is the cv page.</p>
 
     <a href="index.html">Home</a> |
     <a href="about.html">About</a> |
@@ -13,7 +13,7 @@
     <a href="blog.html">Blog</a> |
     <a href="contact.html">Contact</a>
 
-   <form action="#">
+   <cv laction="#">
 <h1 align="center">cv<h1>
 <p>username
     <input type="text" Name="username" size="25" maxlength="30"/>
