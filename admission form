@@ -25,3 +25,7 @@
 what did you think of this form
 <p>
 <textarea name="comments" cols="40" row="4" size="25" Enter your comments.......</textarea>
+<p> please select your gender:
+    <br/>
+<input type="radio" name="gender" value="rock"/> male
+<input type="radio" name="gender" value="rock"/>female
